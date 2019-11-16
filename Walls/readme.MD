@@ -1,3 +1,3 @@
-Javascript program with drop down box to change pattern of a textbox wall.
+Javascript program with drop down box to change pattern of a textbox walls 
 
-https://github.com/CrusadorBoz/Javascript/blob/master/Walls/Walls.PNG
+(github.com/CrusadorBoz/Javascript/blob/master/Walls/Walls.PNG)
